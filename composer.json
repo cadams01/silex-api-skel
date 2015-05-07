@@ -1,0 +1,15 @@
+{
+  "name": "silex-skel",
+  "description": "Silex Skeleton Project",
+  "require": {
+    "php": ">=5.3.3",
+    "silex/silex": "~1.0",
+    "twig/twig": "1.*",
+    "symfony/security": "~2.5"
+  },
+  "autoload": {
+    "classmap": [
+      "src/API"
+    ]
+  }
+}
