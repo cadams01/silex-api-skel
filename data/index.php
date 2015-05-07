@@ -2,9 +2,9 @@
 
 /**
  *
- * This is the application file for the EnergyAPI
+ * This is the application file for the silex-api-skel
  *
- * This files setups the silex app that is the backbone for the EnergyAPI
+ * This files setups the silex app that is the backbone for the silex-api-skel
  *
  * @author eschwartz <erics273@gmail.com>
  * @since 2013-11-25
